@@ -1,3 +1,3 @@
-# ML_CS_PREDICTOR_PYTHON-GOOGLE-COLAB
-This is a fork of https://github.com/tmp1986/ML_CS_PREDICTOR_PYTHON adapted to work on Google Colab.
+# ML_CS_PREDICTOR_PYTHON-GOOGLE_COLAB-DATA_EGG
+This is a fork of https://github.com/Fernando-S/ML_CS_PREDICTOR_PYTHON-GOOGLE-COLAB adapted to analyze EGG data to detect Cybersickness.
 This repository also contains data generated in experiments that happened at Universidade de Brasília - UnB
